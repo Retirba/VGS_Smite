@@ -16,8 +16,10 @@ REQUIREMENTS: This script requires that you've installed AutoHotKey and both .NE
 	Microsoft Windows SDK: http://www.microsoft.com/en-us/download/details.aspx?id=8279
 	
 BEFORE YOU BEGIN:
+	Extract *.ahk to the same directory.
 	Please take a look at the VGS_Config.ahk file. Here, you'll be able to reassign the kebindings for starting voice communication, pausing voice communication, and closing the script. 
 	Note: "^" stands for "CTRL." For example, "^t" = "CTRL+T". "!" can be used for "ALT"
+	To start the script, run the "VGS_SMITE.akh" script.
 	In addition, I've included a nifty function for leveling your ult (if it can be leveld) before using it simply by pressing 4 (ult keybinding). I didn't originally come up with this function, but I honestly can't remember where I found it.
 
 NOTES:
